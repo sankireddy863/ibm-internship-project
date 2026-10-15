@@ -1,12 +1,10 @@
-# CodeAlpha_Task 2_FAQ_Chatbot
+# IBM PROJECT
 
 ##  Project Title
 
 FAQ Chatbot using Python and Streamlit
 
 ##  Project Description
-
-This project is developed as part of the **CodeAlpha Artificial Intelligence Internship**.
 
 The FAQ Chatbot is designed to answer frequently asked questions based on a predefined set of questions and answers. When a user enters a question, the chatbot compares it with stored FAQ questions and returns the most suitable answer.
 
@@ -137,8 +135,4 @@ Screenshot 2026-06-13 113453.png
 ```
 ##  Author
 
-**Dheeraj Sai Kommuri**
-
-##  Internship
-
-**CodeAlpha Artificial Intelligence Internship**
+**SUDHA ANKIREDDY**
